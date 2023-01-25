@@ -1,0 +1,15 @@
+C:\Users\Lenovo\OneDrive\Рабочий стол\Final_Task_01\Task\bin\Debug\net6.0\Final_Task_01.exe
+C:\Users\Lenovo\OneDrive\Рабочий стол\Final_Task_01\Task\bin\Debug\net6.0\Final_Task_01.deps.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\Final_Task_01\Task\bin\Debug\net6.0\Final_Task_01.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Рабочий стол\Final_Task_01\Task\bin\Debug\net6.0\Final_Task_01.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Final_Task_01\Task\bin\Debug\net6.0\Final_Task_01.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Final_Task_01\Task\obj\Debug\net6.0\Final_Task_01.csproj.AssemblyReference.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Final_Task_01\Task\obj\Debug\net6.0\Final_Task_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Рабочий стол\Final_Task_01\Task\obj\Debug\net6.0\Final_Task_01.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Final_Task_01\Task\obj\Debug\net6.0\Final_Task_01.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Рабочий стол\Final_Task_01\Task\obj\Debug\net6.0\Final_Task_01.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Final_Task_01\Task\obj\Debug\net6.0\Final_Task_01.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Final_Task_01\Task\obj\Debug\net6.0\refint\Final_Task_01.dll
+C:\Users\Lenovo\OneDrive\Рабочий стол\Final_Task_01\Task\obj\Debug\net6.0\Final_Task_01.pdb
+C:\Users\Lenovo\OneDrive\Рабочий стол\Final_Task_01\Task\obj\Debug\net6.0\Final_Task_01.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Рабочий стол\Final_Task_01\Task\obj\Debug\net6.0\ref\Final_Task_01.dll
